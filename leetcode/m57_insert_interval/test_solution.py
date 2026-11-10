@@ -14,6 +14,7 @@ from leetcode.m57_insert_interval.solution import insert
         ),
         ([], [5, 7], [[5, 7]]),
         ([[1, 5]], [2, 3], [[1, 5]]),
+        ([[1,5]], [6,8], [[1,5],[6,8]])
     ],
 )
 def test_insert(intervals, new_interval, expected):
