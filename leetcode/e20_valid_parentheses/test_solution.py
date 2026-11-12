@@ -12,6 +12,7 @@ from leetcode.e20_valid_parentheses.solution import is_valid
         ("([])", True),
         ("([)]", False),
         ("", True),
+        ("))", False),
     ],
 )
 def test_is_valid(s, expected):
