@@ -1,6 +1,6 @@
 """704. 二分查找
 
-https://leetcode.com/problems/binary-search/
+https://leetcode.cn/problems/binary-search/
 
 非递减数组 nums 与整数 target，存在则返回下标，否则返回 -1。
 
