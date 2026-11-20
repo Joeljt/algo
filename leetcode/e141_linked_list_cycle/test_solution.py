@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import pytest
 
 from leetcode.e141_linked_list_cycle.solution import ListNode, has_cycle

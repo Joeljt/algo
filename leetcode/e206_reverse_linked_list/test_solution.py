@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import pytest
 
 from leetcode.e206_reverse_linked_list.solution import ListNode, reverse_list

@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import pytest
 
 from leetcode.e21_merge_two_sorted_lists.solution import ListNode, merge_two_lists
